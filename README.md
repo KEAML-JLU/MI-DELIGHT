@@ -14,7 +14,7 @@ cd source_code
 python train.py --dataset ohsumed
 ```
 ### Related Work
-Our related work can be found here: [GIFT](https://github.com/KEAML-JLU/GIFT) and [SimSTC](https://github.com/KEAML-JLU/SimSTC)
+Our related work can be found here: [GIFT](https://github.com/KEAML-JLU/GIFT) and [SimSTC](https://github.com/KEAML-JLU/SimSTC).
 ### Cite
 If you find our work can help your research, please cite our work! <br>
 
