@@ -13,6 +13,8 @@ cd source_code
 ```
 python train.py --dataset ohsumed
 ```
+We also provide the `original datasets` used in our work, along with the `preprocess.py` script to convert the raw data into the required target format.
+
 ## Related Work
 Our related work can be found here: [GIFT](https://github.com/KEAML-JLU/GIFT) and [SimSTC](https://github.com/KEAML-JLU/SimSTC).
 ## Cite
